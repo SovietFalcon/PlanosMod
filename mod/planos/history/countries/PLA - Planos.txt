@@ -1,0 +1,68 @@
+capital = 165
+
+oob = "PLA_1936"
+
+
+set_stability = 0.5
+
+set_war_support = 0.5
+
+
+## Ideas ##
+
+add_ideas = {
+		#cosas balantinaso
+}
+
+## Starting tech ##
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	early_bomber = 1
+	naval_bomber1 = 1
+}
+
+## Misc ##
+
+set_convoys = 5
+
+
+## Politica ##
+
+set_popularities = {
+	democratic = 5
+	communism = 10
+	fascism = 10
+	neutrality = 75
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+## Lider ##
+
+## Neutral ##
+
+create_country_leader = {
+	name = "Comité de Fotopollas"
+	desc = "Comité de las fotopollas anarcoalexistas"
+	picture = "gfx/leaders/Europe/PLA/Fotopollas.dds"
+	ideology = despotism
+	traits = {
+		#scary_clown
+	}
+}
