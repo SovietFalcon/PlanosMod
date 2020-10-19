@@ -53,16 +53,24 @@ set_politics = {
 	elections_allowed = no
 }
 
-## Lider ##
+## Lideres ##
 
 ## Neutral ##
 
 create_country_leader = {
-	name = "Comité de Fotopollas"
-	desc = "Comité de las fotopollas anarcoalexistas"
-	picture = "gfx/leaders/Europe/PLA/Fotopollas.dds"
+	name = "Asamblea Comunal"
+	desc = "Asamblea de la Comuna de Planos"
+	picture = "gfx/leaders/Europe/PLA/Comuna.dds"
 	ideology = despotism
 	traits = {
 		#scary_clown
 	}
 }
+
+## Comunista ##
+
+
+## Fascista
+
+
+## Democrático ##

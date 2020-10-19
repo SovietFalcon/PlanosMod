@@ -3197,8 +3197,8 @@
 
 ## PLANOS ##
  
-PLA_communism: "Comuna de Planos"
-PLA_communism_DEF: "La Comuna de Planos"
+PLA_communism: "Sóviet de Planos"
+PLA_communism_DEF: "El Sóviet de Planos"
 PLA_communism_ADJ: "de Planos"
 
 
@@ -3207,11 +3207,11 @@ PLA_neutrality_DEF: "La Comuna de Planos"
 PLA_neutrality_ADJ: "de Planos"
 
 
-PLA_fascist: "Imperio de Planos"
-PLA_fascist_DEF: "El Imperio de Planos"
+PLA_fascist: "Estado Imperial de Planos"
+PLA_fascist_DEF: "El Estado Imperial de Planos"
 PLA_fascist_ADJ: "de Planos"
 
 
-PLA_democratic: "República de Planos"
-PLA_democratic_DEF: "La República de Planos"
+PLA_democratic: "República Federal de Planos"
+PLA_democratic_DEF: "La República Federal de Planos"
 PLA_democratic_ADJ: "de Planos"
